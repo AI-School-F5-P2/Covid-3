@@ -21,9 +21,9 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
-<b>Covid is behind you 🤥</b>
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
-<h2></h2><br>
+<br>
+<b>Covid is behind you 🤥</b>
