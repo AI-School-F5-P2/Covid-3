@@ -1,4 +1,4 @@
-<!-- API Data -->
+<!-- API DATA -->
 <div align="justify">
 
 <!-- Profile -->
@@ -8,13 +8,13 @@
       <b>
         Hello There
       <br>
-        We present our first Data Project
+        We present our first project with Data Analytics
       </b>
       <br>
-       <a href="https://git.io/typing-svg%22%3E<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&width=435&lines=Forgive+us+for+this+messy+code+%5E%5E" alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Forgive+us+for+this+messy+code+%5E%5E" alt="Typing SVG" /></a>
       <br>
       <b>
-        ~ Datathon ~
+        ~ DATATHON ~
       </b>
     </samp>
   </p>
@@ -25,4 +25,4 @@
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
-<b>This is a mess of Data</b>
+<b>This data is a mess</b>
